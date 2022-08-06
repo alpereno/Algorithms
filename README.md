@@ -1,2 +1,2 @@
 # Algorithms
-Solutions from the algorithms book
+Work on algorithms book
