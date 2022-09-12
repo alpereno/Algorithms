@@ -156,5 +156,5 @@ public class ChapterOnePointOne {
             return mystery(a+a, b/2);
         }
         return mystery(a+a, b/2)+a;
-    }
+    }    
 }
